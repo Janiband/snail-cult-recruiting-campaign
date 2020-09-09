@@ -1,2 +1,2 @@
 # snail-cult-recruiting-campaign
- Janiband Website
+ Janiband Public Recruitment Webpage
